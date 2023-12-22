@@ -1,6 +1,8 @@
 # 👋🏻 **Hello! Welcome to my profile.**
 #
 ## 🤔 **About me:**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ### - 👨🏻‍💻 **I'm Renan Costa;**
 ### - 👨🏻‍🎓 **Bachelor's degree in information systems;**
 ### - 🏫 **Federal University of Rio Grande do Norte (UFRN);**
