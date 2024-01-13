@@ -11,7 +11,7 @@
 #
 ## 😎📈 **Stats:**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMRb&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border)](https://github.com/RenanMRb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&langs_count=10&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border)](https://github.com/RenanMRb/github-readme-stats)
 
 #
 ## 🔧 **Tools:**
