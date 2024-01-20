@@ -10,8 +10,8 @@
 ### - 💻 **I'm currently trying to improve my knowledge of Python.**
 #
 ## 😎📈 **Stats:**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMRb&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border)](https://github.com/RenanMRb/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMRb&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
 
 #
 ## 🔧 **Tools:**
