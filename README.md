@@ -12,8 +12,8 @@
 ## 😎📈 **Stats:**
 <div>
     <a href="https://github.com/RenanMRb">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RenanMRb&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMRb&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMRb&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
     </a>
 </div>
 
