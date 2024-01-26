@@ -15,10 +15,8 @@
 ## 😎📈 **Stats:**
 <div>
     <a href="https://github.com/RenanCDev">
-        <img height="180em" src="https://github-readme-stats-six-dun-38.vercel.app
-&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
-        <img height="180em" src="https://github-readme-stats-six-dun-38.vercel.app
-top-langs/?username=RenanCDev&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCDev&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCDev&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=000000&border_color=00FFFF&border"/>
     </a>
 </div>
 
