@@ -8,7 +8,7 @@
 <h3><b> - 🏫 Federal University of Rio Grande do Norte (UFRN);</b></h3>
 <h3><b> - 🏫 Ceres Campus;</b></h3>
 <h3><b> - 📚 3rd Period/ 2nd Year;</b></h3>
-<h3><b> - 🎂 24 years;</b></h3>
+<h3><b> - 🎂 25 years;</b></h3>
 <h3><b> - 💻 I'm currently improving my knowledge of Python;</b></h3>
 <h3><b> - 🤓 Passionate and loving every step in the IT (Information Technology) universe.</b></h3>
 
