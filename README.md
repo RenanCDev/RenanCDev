@@ -1,197 +1,221 @@
-<h1 align="center">👋🏻 Hello! Welcome to my GitHub profile.</h1>
+<h1 align="center">👋🏻 Hello! Welcome to my GitHub Profile</h1>
 
 <h3 align="center">
-  Information Systems Student | Data Analysis | Technology | Process Improvement
+Information Systems Student • Data Analysis • Technology • Process Improvement
 </h3>
 
-<br>
-
-<img 
-  src="./img/MyPixel-removebg.png" 
-  width="350" 
-  align="right" 
-  alt="Renan Costa"
-/>
-
-## 👨🏻‍💻 About me
-
-- 🎓 Information Systems undergraduate at **Federal University of Rio Grande do Norte (UFRN)**;
-- 🏫 Student at **CERES/UFRN**;
-- 💻 Interested in **Technology, Data Analysis, Information Systems and Process Improvement**;
-- 📊 Experience with **Excel, Power BI, dashboards, reports and data organization**;
-- 🐍 Currently improving my knowledge of **Python and Data Analysis**;
-- 🛠️ Experience with technical support, administrative processes and technology-based solutions;
-- 🤖 Interested in the practical application of **Artificial Intelligence** to improve productivity and processes;
-- 📚 Always looking to develop new technical and professional skills.
-
-<br clear="right"/>
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img 
-  align="center" 
-  alt="Python" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="C" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="HTML5" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="CSS3" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="JavaScript" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="Git" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="GitHub" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-/>
-
-<img 
-  align="center" 
-  alt="VSCode" 
-  height="55" 
-  width="70" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-/>
-
-</div>
-
-<br>
-
-### 📊 Data, Productivity & Business Tools
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=44FF00">
-
-<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=44FF00">
-
-<img src="https://img.shields.io/badge/Google_Workspace-0d1117?style=for-the-badge&logo=google&logoColor=44FF00">
-
-<img src="https://img.shields.io/badge/Microsoft_Office-0d1117?style=for-the-badge&logo=microsoftoffice&logoColor=44FF00">
-
-<img src="https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=44FF00">
-
-<img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=44FF00">
-
+  <a href="https://github.com/RenanCost15">
+    <img src="https://komarev.com/ghpvc/?username=RenanCost15&label=Profile%20Views&color=00C853&style=flat" alt="Profile views">
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<img src="./img/MyPixel-removebg.png" width="340" align="right" alt="Renan Costa">
 
-<div align="center">
+## 👨🏻‍💻 About Me
 
-<a href="https://github.com/RenanCost15">
+- 🎓 Information Systems undergraduate at **UFRN**
+- 🏫 Federal University of Rio Grande do Norte — **CERES**
+- 💻 Interested in **Technology, Data Analysis and Information Systems**
+- 📊 Experience with **Excel, Power BI, dashboards and reports**
+- ⚙️ Interested in **Process Management and Process Improvement**
+- 🐍 Improving my knowledge of **Python and Data Analysis**
+- 🤖 Interested in practical applications of **Artificial Intelligence**
+- 🛠️ Experience with **technical support and technology-based solutions**
+- 📚 Always looking for new technical and professional challenges
+
+<br clear="right">
+
+---
+
+## 🛠️ Technologies & Development Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" alt="C" title="C">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" title="HTML5">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/663399" width="48" height="48" alt="CSS3" title="CSS3">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" title="Git">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" title="GitHub">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code">
+</p>
+
+<p align="center">
+  <b>Python&nbsp;&nbsp; • &nbsp;&nbsp;C&nbsp;&nbsp; • &nbsp;&nbsp;HTML&nbsp;&nbsp; • &nbsp;&nbsp;CSS&nbsp;&nbsp; • &nbsp;&nbsp;JavaScript&nbsp;&nbsp; • &nbsp;&nbsp;Git&nbsp;&nbsp; • &nbsp;&nbsp;GitHub&nbsp;&nbsp; • &nbsp;&nbsp;VS Code</b>
+</p>
+
+### 📊 Data, Productivity & Business Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Microsoft Excel" title="Microsoft Excel">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleworkspace/4285F4" width="45" height="45" alt="Google Workspace" title="Google Workspace">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/libreoffice/18A303" width="45" height="45" alt="LibreOffice" title="LibreOffice">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45" height="45" alt="Canva" title="Canva">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="45" height="45" alt="WordPress" title="WordPress">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/inkscape/FFFFFF" width="45" height="45" alt="Inkscape" title="Inkscape">
+</p>
+
+<p align="center">
+  <b>Excel&nbsp;&nbsp; • &nbsp;&nbsp;Power BI&nbsp;&nbsp; • &nbsp;&nbsp;Google Workspace&nbsp;&nbsp; • &nbsp;&nbsp;LibreOffice&nbsp;&nbsp; • &nbsp;&nbsp;Canva&nbsp;&nbsp; • &nbsp;&nbsp;WordPress&nbsp;&nbsp; • &nbsp;&nbsp;Inkscape</b>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=RenanCost15&show_icons=true&include_all_commits=true&count_private=true&title_color=44FF00&icon_color=44FF00&text_color=FFFFFF&bg_color=0d1117&border_color=30363d"
-    alt="Renan Costa GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/RenanCost15">
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenanCost15&theme=github_dark"
+    height="180"
+    alt="GitHub Stats"
+  >
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCost15&layout=compact&langs_count=8&title_color=44FF00&text_color=FFFFFF&bg_color=0d1117&border_color=30363d"
-    alt="Most Used Languages"
-  />
-</a>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenanCost15&theme=github_dark"
+    height="180"
+    alt="Languages by Repository"
+  >
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanCost15&theme=github_dark"
+    width="90%"
+    alt="GitHub Profile Details"
+  >
+</p>
 
 ---
 
 ## 🎯 Areas of Interest
 
-- 📊 Data Analysis
-- 🐍 Python
-- 💻 Information Technology
-- ⚙️ Process Improvement
-- 🤖 Artificial Intelligence
-- 📈 Business Intelligence
-- 🛠️ Technical Support
-- 🗂️ Information Systems
-- 📋 Process Management
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 📊 Data
+Data Analysis  
+Business Intelligence  
+Dashboards  
+Data Visualization
+
+</td>
+
+<td align="center" width="200">
+
+### ⚙️ Processes
+Process Management  
+Process Improvement  
+Automation  
+Operations
+
+</td>
+
+<td align="center" width="200">
+
+### 💻 Technology
+Information Systems  
+Technical Support  
+Programming  
+Databases
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖 Innovation
+Artificial Intelligence  
+Automation  
+Digital Solutions  
+Continuous Improvement
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐍 Python
-- 📊 Data Analysis
-- 📈 Power BI
-- 🗃️ Databases
-- 🤖 Artificial Intelligence
-- ⚙️ Process Automation
-- 🔧 Git & GitHub
+<p align="center">
+
+`🐍 Python`
+&nbsp;
+`📊 Data Analysis`
+&nbsp;
+`📈 Power BI`
+&nbsp;
+`🗃️ Databases`
+
+<br><br>
+
+`🤖 Artificial Intelligence`
+&nbsp;
+`⚙️ Process Automation`
+&nbsp;
+`🔧 Git & GitHub`
+
+</p>
 
 ---
 
-## 📫 Contact me
+## 🤝 Professional Interests
 
-<div align="center">
+I'm interested in opportunities and projects involving:
 
-<a href="https://www.linkedin.com/in/renancost15" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=44FF00">
+- 📊 **Data Analysis & Business Intelligence**
+- 💻 **Information Technology**
+- ⚙️ **Process Management & Operations**
+- 🤖 **Artificial Intelligence & Automation**
+- 🛠️ **Technical Support**
+- 🗂️ **Information Systems**
+- 📈 **Technology applied to business and management**
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/renancost15">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
 
 <a href="mailto:renan.costa.bsi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=44FF00">
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  >
 </a>
 
-<a href="https://www.instagram.com/renancost15" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=44FF00">
+<a href="https://www.instagram.com/renancost15">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  >
 </a>
 
-</div>
+<a href="https://github.com/RenanCost15">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>💻 Technology&nbsp;&nbsp; • &nbsp;&nbsp;📊 Data&nbsp;&nbsp; • &nbsp;&nbsp;⚙️ Processes&nbsp;&nbsp; • &nbsp;&nbsp;🤖 Innovation</b>
+</p>
 
-### 💻 Technology • 📊 Data • ⚙️ Processes • 🚀 Continuous Learning
-
-</div>
+<p align="center">
+  🚀 Continuous learning and improvement.
+</p>
