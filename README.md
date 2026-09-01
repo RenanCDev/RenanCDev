@@ -14,9 +14,9 @@
 
 <h2><b>😎📈 Stats:</b></h2>
 <div>
-    <a href="https://github.com/RenanCDev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCDev&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=0d1117&border_color=00FFFF&border"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCDev&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=0d1117&border_color=00FFFF&border"/>
+    <a href="https://github.com/RenanCost15">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCost15&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=0d1117&border_color=00FFFF&border"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCost15&layout=compact&show_icons=true&title_color=44FF00&icon_color=44FF00&text_color=00FFFF&bg_color=0d1117&border_color=00FFFF&border"/>
     </a>
 </div>
 
@@ -28,8 +28,8 @@
 
 <h2><b>📞 Contacts</b></h2>
 <div> 
-    <a href = "https://www.linkedin.com/in/renancdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=44FF00" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/renancost15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=44FF00" target="_blank"></a>
     <a href = "mailto:renan.costa.bsi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=44FF00" target="_blank"></a>
-    <a href = "https://www.instagram.com/renancdev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=44FF00" target="_blank"></a>
-    <a href = "https://twitter.com/RenanCDev_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=44FF00" target="_blank"></a>
+    <a href = "https://www.instagram.com/renancost15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=44FF00" target="_blank"></a>
+    <a href = "https://twitter.com/RenanCost15" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=44FF00" target="_blank"></a>
 </div>
